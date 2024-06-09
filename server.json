@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de um site",
+      "price": 1500,
+      "type": "income",
+      "createdAt": "2024-06-07T23:19:29.104Z",
+      "category": "unknown"
+    },
+    {
+      "id": 2,
+      "description": "Consultoria de marketing",
+      "price": 1200,
+      "type": "income",
+      "createdAt": "2024-06-07T23:20:29.104Z",
+      "category": "unknown"
+    },
+    {
+      "id": 3,
+      "description": "Compra de equipamentos",
+      "price": 2000,
+      "type": "outcome",
+      "createdAt": "2024-06-07T23:21:29.104Z",
+      "category": "unknown"
+    },
+    {
+      "id": 4,
+      "description": "Manutenção do servidor",
+      "price": 300,
+      "type": "outcome",
+      "createdAt": "2024-06-07T23:22:29.104Z",
+      "category": "unknown"
+    },
+    {
+      "id": 5,
+      "description": "Venda de curso online",
+      "price": 500,
+      "type": "income",
+      "createdAt": "2024-06-07T23:23:29.104Z",
+      "category": "unknown"
+    },
+    {
+      "description": "Lanche (InDaHouse)",
+      "price": 78,
+      "category": "Lanche",
+      "type": "outcome",
+      "createdAt": "2024-06-09T01:28:58.843Z",
+      "id": 6
+    },
+    {
+      "description": "pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-06-09T01:36:51.354Z",
+      "id": 7
+    }
+  ]
+}
